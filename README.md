@@ -1,2 +1,2 @@
 # smartfence
- Baza danych i obsługa komunikatów z esp32
+ Baza danych i obsługa komunikatów z esp32-connect
